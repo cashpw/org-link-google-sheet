@@ -1,0 +1,7 @@
+#+TITLE: org-link-google-sheet
+
+Provides an =org-link= type for Google Sheets.
+
+#+begin_example org-mode
+[[google-sheet:1234][Foo]]
+#+end_example
